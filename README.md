@@ -54,7 +54,7 @@ Installation
 ------------
 ```
 $ cd /path-to-pyOCD/
-$ python setup.py install
+$ sudo python setup.py install
 ```
 
 Standalone GDB Server
